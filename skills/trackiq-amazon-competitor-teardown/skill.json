@@ -1,0 +1,39 @@
+{
+  "name": "trackiq-amazon-competitor-teardown",
+  "title": "TrackIQ: Amazon Competitor Listing Teardown",
+  "category": "listing",
+  "version": "1.0.0",
+  "updated": "2026-09-18",
+  "summary": "Puts one Amazon product page side by side with the three or four beating it on the shelf \u2014 title structure, image count, bullet construction, price and price per unit, coupons, rating and review depth, and rank \u2014 then says what to change and in what order. Compares content, not slots. Use when the user asks how we compare to competitors, a competitor teardown, competitive analysis, why competitors",
+  "changelog": "First public release.",
+  "requires": {
+    "mcp": [
+      "trackiq"
+    ],
+    "tools": [
+      "get_product",
+      "get_product_performance",
+      "get_reviews",
+      "list_marketplaces"
+    ],
+    "filesystem": false,
+    "network": true,
+    "third_party_apis": [
+      "oxylabs"
+    ],
+    "third_party_note": "Requires an Oxylabs scraper connection; the public page is the only source for this data."
+  },
+  "delivery": {
+    "methods": [
+      "in-chat",
+      "file",
+      "slack",
+      "n8n",
+      "email"
+    ],
+    "default": "in-chat",
+    "note": "in-chat always works and is the fallback. Outward sends confirm first."
+  },
+  "homepage": "https://trackiq.com/skills/trackiq-amazon-competitor-teardown",
+  "license": "MIT"
+}

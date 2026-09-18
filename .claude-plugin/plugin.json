@@ -1,0 +1,21 @@
+{
+  "name": "trackiq-amazon-competitor-teardown",
+  "version": "1.0.0",
+  "description": "TrackIQ: Amazon Competitor Listing Teardown \u2014 an Agent Skill for Amazon sellers, built on TrackIQ MCP data.",
+  "author": {
+    "name": "TrackIQ",
+    "url": "https://trackiq.com"
+  },
+  "homepage": "https://trackiq.com/skills/trackiq-amazon-competitor-teardown",
+  "repository": "https://github.com/TrackIQ-HQ/trackiq-amazon-competitor-teardown",
+  "license": "MIT",
+  "keywords": [
+    "amazon",
+    "amazon-seller",
+    "claude-skill",
+    "agent-skills",
+    "mcp",
+    "trackiq",
+    "listing"
+  ]
+}
