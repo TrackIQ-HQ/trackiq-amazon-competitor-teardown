@@ -4,7 +4,7 @@
   "category": "listing",
   "version": "1.0.0",
   "updated": "2026-09-18",
-  "summary": "Puts one Amazon product page side by side with the three or four beating it on the shelf \u2014 title structure, image count, bullet construction, price and price per unit, coupons, rating and review depth, and rank \u2014 then says what to change and in what order. Compares content, not slots. Use when the user asks how we compare to competitors, a competitor teardown, competitive analysis, why competitors",
+  "summary": "Puts one Amazon product page side by side with the three or four beating it on the shelf \u2014 title structure, image count, bullet construction, price and price per unit, coupons, rating and review depth, and rank \u2014 then says what to change and in what order. Compares content, not slots.",
   "changelog": "First public release.",
   "requires": {
     "mcp": [
