@@ -2,8 +2,8 @@
   "name": "trackiq-amazon-competitor-teardown",
   "title": "TrackIQ: Amazon Competitor Listing Teardown",
   "category": "listing",
-  "version": "1.0.0",
-  "updated": "2026-09-18",
+  "version": "1.0.1",
+  "updated": "2026-10-06",
   "summary": "Puts one Amazon product page side by side with the three or four beating it on the shelf \u2014 title structure, image count, bullet construction, price and price per unit, coupons, rating and review depth, and rank \u2014 then says what to change and in what order. Compares content, not slots.",
   "changelog": "First public release.",
   "requires": {
